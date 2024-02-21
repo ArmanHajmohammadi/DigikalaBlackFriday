@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XRvLHHrLQMXHOZvfOZxUcgGg5pvQmKdCEMoXTL/PFbi0uv/7TdLdZBp4KI91OOfdgcJxIIibsuEm+TQ/ROFfQw==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\Programming\\DigiArman\\DigiArman\\DigiArman\\DigiArman.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\arman\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

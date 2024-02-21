@@ -1,0 +1,17 @@
+D:\Projects\Programming\DigiArman\DigiArman\DigiArman\bin\Release\net6.0\DigiArman.exe
+D:\Projects\Programming\DigiArman\DigiArman\DigiArman\bin\Release\net6.0\DigiArman.deps.json
+D:\Projects\Programming\DigiArman\DigiArman\DigiArman\bin\Release\net6.0\DigiArman.runtimeconfig.json
+D:\Projects\Programming\DigiArman\DigiArman\DigiArman\bin\Release\net6.0\DigiArman.dll
+D:\Projects\Programming\DigiArman\DigiArman\DigiArman\bin\Release\net6.0\DigiArman.pdb
+D:\Projects\Programming\DigiArman\DigiArman\DigiArman\bin\Release\net6.0\Newtonsoft.Json.dll
+D:\Projects\Programming\DigiArman\DigiArman\DigiArman\obj\Release\net6.0\DigiArman.csproj.AssemblyReference.cache
+D:\Projects\Programming\DigiArman\DigiArman\DigiArman\obj\Release\net6.0\DigiArman.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Programming\DigiArman\DigiArman\DigiArman\obj\Release\net6.0\DigiArman.AssemblyInfoInputs.cache
+D:\Projects\Programming\DigiArman\DigiArman\DigiArman\obj\Release\net6.0\DigiArman.AssemblyInfo.cs
+D:\Projects\Programming\DigiArman\DigiArman\DigiArman\obj\Release\net6.0\DigiArman.csproj.CoreCompileInputs.cache
+D:\Projects\Programming\DigiArman\DigiArman\DigiArman\obj\Release\net6.0\DigiArman.csproj.CopyComplete
+D:\Projects\Programming\DigiArman\DigiArman\DigiArman\obj\Release\net6.0\DigiArman.dll
+D:\Projects\Programming\DigiArman\DigiArman\DigiArman\obj\Release\net6.0\refint\DigiArman.dll
+D:\Projects\Programming\DigiArman\DigiArman\DigiArman\obj\Release\net6.0\DigiArman.pdb
+D:\Projects\Programming\DigiArman\DigiArman\DigiArman\obj\Release\net6.0\DigiArman.genruntimeconfig.cache
+D:\Projects\Programming\DigiArman\DigiArman\DigiArman\obj\Release\net6.0\ref\DigiArman.dll
